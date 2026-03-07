@@ -12,7 +12,7 @@ import java.util.UUID;
 public class ClassReward extends BukkitCustomReward {
     public ClassReward() {
         setName("Class Reward");
-        setAuthor("MageMonkeyStudio");
+        setAuthor("VoidEdge");
         setDisplay("Class");
         setItem("CHAINMAIL_HELMET", (short) 0);
         addStringPrompt("Class", "Enter what class the player will become.", 0);

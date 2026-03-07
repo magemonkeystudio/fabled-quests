@@ -12,7 +12,7 @@ import java.util.UUID;
 public class ClassAttributeRequirement extends BukkitCustomRequirement {
     public ClassAttributeRequirement() {
         setName("Class Attribute Requirement");
-        setAuthor("MageMonkeyStudio");
+        setAuthor("VoidEdge");
         setItem("FEATHER", (short) 0);
         addStringPrompt("Attribute", "Enter the name of the required attribute", 0);
         addStringPrompt("Amount", "Enter the required amount of the attribute", 0);
